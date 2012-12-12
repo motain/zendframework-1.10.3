@@ -1,0 +1,22 @@
+{
+    "name": "makarski/zendframework-1.10.3",
+    "description": "Zend Framework 1",
+    "type": "library",
+    "keywords": [
+        "framework",
+        "zf1"
+    ],
+    "homepage": "http://framework.zend.com/",
+    "license": "BSD-3-Clause",
+    "require": {
+        "php": ">=5.2.4"
+    },
+    "autoload": {
+        "psr-0": {
+            "Zend": "library/"
+        }
+    },
+    "include-path": [
+        "library/"
+    ]
+}

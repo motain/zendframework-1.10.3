@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/framework/!svn/ver/21715/standard/tags/release-1.10.3/library/Zend/Translate
+END
+Translate.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/framework/!svn/ver/21715/standard/tags/release-1.10.3/library/Zend/Translate/Translate.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/framework/!svn/ver/21715/standard/tags/release-1.10.3/library/Zend/Translate/Exception.php
+END
+Plural.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/framework/!svn/ver/21715/standard/tags/release-1.10.3/library/Zend/Translate/Plural.php
+END
+Adapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/framework/!svn/ver/21715/standard/tags/release-1.10.3/library/Zend/Translate/Adapter.php
+END

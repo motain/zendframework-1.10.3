@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/framework/!svn/ver/21715/standard/tags/release-1.10.3/library/Zend/Loader/PluginLoader
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/21715/standard/tags/release-1.10.3/library/Zend/Loader/PluginLoader/Interface.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/21715/standard/tags/release-1.10.3/library/Zend/Loader/PluginLoader/Exception.php
+END

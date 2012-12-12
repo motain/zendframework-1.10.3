@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/21715/standard/tags/release-1.10.3/library/Zend/Queue/Adapter/Db
+END
+mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/21715/standard/tags/release-1.10.3/library/Zend/Queue/Adapter/Db/mysql.sql
+END
+queue_sqlite.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/framework/!svn/ver/21715/standard/tags/release-1.10.3/library/Zend/Queue/Adapter/Db/queue_sqlite.sql
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/21715/standard/tags/release-1.10.3/library/Zend/Queue/Adapter/Db/Message.php
+END
+Queue.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/framework/!svn/ver/21715/standard/tags/release-1.10.3/library/Zend/Queue/Adapter/Db/Queue.php
+END
+postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/21715/standard/tags/release-1.10.3/library/Zend/Queue/Adapter/Db/postgresql.sql
+END
